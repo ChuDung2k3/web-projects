@@ -1,0 +1,21 @@
+
+.container{
+    width: 1000px;
+    margin: 0 auto;
+    background-color:rgb(53, 35, 16);
+    color: white;
+}
+.container h1{
+    color: steelblue;
+}
+img{
+    display: inline-block;
+    height: 150px;
+}
+.header #heading{
+    font-size: 45px;
+}
+.container .header span {
+    color: yellow;
+
+}
